@@ -1,0 +1,2 @@
+#介绍
+protostuff是一款高性能的序列化和反序列化工具，在各方面的测试中， protostuff各方面性能优于protobuff。这是一个对protostuff的简单使用demo
